@@ -7,7 +7,6 @@
 ## 🎓 Estudando
 Atualmente estou me dedicando aos estudos nas seguintes tecnologias:
 - **Python**:
-- **JavaScript e TypeScript**: 
 - **Desenvolvimento WEB**:
 
 ## 📞 Contatos
