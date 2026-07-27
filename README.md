@@ -1,5 +1,5 @@
 # 👋🏼 Olá, Eu sou Guilherme Painko Scalcon! 
-### Sou Estudande de Ciência da Computação da UFN
+### Formado em Ciência da Computação pela UFN
 
 ![Guilherme's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GPainko&theme=dark)
 ![linguagem de programação](https://github-readme-stats.vercel.app/api/top-langs/?username=GPainko&layout=compact&langs_count=10&theme=dark&hide_border=true)
