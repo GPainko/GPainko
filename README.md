@@ -1,20 +1,29 @@
-# 👋 Olá, sou Guilherme Painko Scalcon!
+# 👋 Olá, sou Guilherme Painko Scalcon
 
-**`Desenvolvedor em formação | Cientista da Computação | Buscando oportunidade na área de tecnologia`**
+**Desenvolvedor Backend | Python | APIs REST**
 
-Formado em **Ciência da Computação** pela UFN. Atualmente trabalho como recepcionista noturno e dedico minhas madrugadas a estudar programação, construir projetos e me preparar para migrar de vez para o desenvolvimento de software.
+Formado em **Ciência da Computação** pela UFN. Foco em desenvolvimento backend com Python, construindo APIs REST e trabalhando com bancos de dados relacionais. Buscando minha primeira oportunidade profissional na área de desenvolvimento de software.
 
 ---
 
-### 🧰 Tecnologias e Ferramentas
+### 🧰 Stack
 
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="C" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="SQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<br clear="left"/>
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Bancos de Dados**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -25,22 +34,18 @@ Formado em **Ciência da Computação** pela UFN. Atualmente trabalho como recep
 
 ---
 
-### 🚀 Projetos em Destaque
+### 📚 Repositórios de Estudo
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [Curso Python (Udemy)](https://github.com/GPainko/Curso_Udemy_Python) | Exercícios e projetos do curso completo de Python | Python |
+| Repositório | Descrição | Stack |
+|-------------|-----------|-------|
+| [Curso Python (Udemy)](https://github.com/GPainko/Curso_Udemy_Python) | Exercícios e práticas do curso completo de Python | Python |
 | [Curso C++ (Danki Code)](https://github.com/GPainko/Danki_Code_Curso_CPlusPlus) | Fundamentos de C++ e lógica de programação | C++ |
 | [Banco de Dados](https://github.com/GPainko/BancoDeDados) | Estudos e práticas com bancos de dados relacionais | Python, SQL |
-| [Atividades da Faculdade](https://github.com/GPainko/FaculdadeAtividades) | Trabalhos e projetos acadêmicos do curso de CC | HTML, diversos |
+| [Atividades da Faculdade](https://github.com/GPainko/FaculdadeAtividades) | Trabalhos e projetos acadêmicos do curso de CC | Diversos |
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-painko-scalcon-708060425/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gui.painko2393@gmail.com)
-
----
-
-> 💡 *"Código é como um bom café: quanto mais você pratica, melhor ele fica."*
